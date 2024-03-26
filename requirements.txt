@@ -1,6 +1,8 @@
 certifi==2024.2.2
 charset-normalizer==3.3.2
 docutils==0.20.1
+# Editable install with no version control (gamechanger==0.1)
+-e c:\users\abdellatifbelmady\onedrive - the game changer company\documents\lab\gamechanger
 idna==3.6
 importlib_metadata==7.1.0
 jaraco.classes==3.3.1
