@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: gamechanger
+Version: 1.0
+Summary: A sample gamechanger library for gamification
+Home-page: https://github.com/abdellatif-belmady/gamechanger
+Author: Abdellatif BELMADY
+Author-email: <abdellatif.belmady@gmail.com>
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # **Welcome to gamechanger!**
 
 This Python library empowers you to create engaging games with ease. It provides a foundation for building user interfaces, managing assets, and structuring your game logic.
